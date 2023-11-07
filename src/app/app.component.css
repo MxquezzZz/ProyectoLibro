@@ -1,0 +1,47 @@
+.header{
+    background-color: rgba(10, 16, 20, 0.582);
+    height: 80px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+
+}
+.formulario{
+    padding-left: 1%;
+    padding-right: 5%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* border: 3px solid black;  */
+}
+
+/* .datos{
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    
+} */
+
+.parte1{
+    /* background-color: rgb(255, 230, 0); */
+    margin-left: 100px;
+    width: 40%;
+
+}
+
+.parte2{
+    /* background-color: rgb(150, 143, 83); */
+    width: 45%;
+
+}
+
+.table{
+    margin-left: 2%;
+    border: 4px solid black;
+
+}
+h2{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
